@@ -1,0 +1,6 @@
+{
+  "name": "Yahoo Finance Stock Dashboard",
+  "description": "Comprehensive stock analysis dashboard with live market data, interactive charts, financial metrics, analyst targets, and Gemini AI stock insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
