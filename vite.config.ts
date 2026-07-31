@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
 
-    base: '/Luxe-China-Travel-2026/',
+    base: '/Stockflux/',
     
     plugins: [react(), tailwindcss()],
     resolve: {
